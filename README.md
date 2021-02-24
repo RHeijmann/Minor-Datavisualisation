@@ -1,2 +1,1 @@
-# Minor-Datavisualisation
-For sotrign project chematics and code that has been used to complete my minor in data visualisation.
+# Minor-Datavisualisation (Internal coursecode: BD08) provided by the "[Zuyd Lectoraat Data Intelligence](https://dataintelligence.zuyd.nl/)" of [Hogeschool Zuyd](https://www.zuyd.nl/opleidingen/hbo-ict)
