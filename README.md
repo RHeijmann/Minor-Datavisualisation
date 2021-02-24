@@ -1,1 +1,1 @@
-# Minor-Datavisualisation (Internal coursecode: BD08) provided by the "[Zuyd Lectoraat Data Intelligence](https://dataintelligence.zuyd.nl/)" of [Hogeschool Zuyd](https://www.zuyd.nl/opleidingen/hbo-ict)
+# Projectrepositoy of Rik Heijmanns work for his minor in Datavisualisation (Internal coursecode: BD08) (that has been provided by the "[Zuyd Lectoraat Data Intelligence](https://dataintelligence.zuyd.nl/)" of [Zuyd University of Applied Sciences](https://www.zuyd.nl/opleidingen/hbo-ict)).
